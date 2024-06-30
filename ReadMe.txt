@@ -1,0 +1,1 @@
+This Repository tries to cover all possible scenarios related to Java design patterns.
